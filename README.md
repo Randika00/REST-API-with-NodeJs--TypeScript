@@ -17,3 +17,7 @@ Here are four HTTP methods that are commonly used in REST APIs:
     ✨ DELETE: used to delete resources.
 
     
+![REST-API-with-Node-js-and-Express-](https://github.com/Randika00/REST-API-with-NodeJs--TypeScript/assets/89309192/4982a535-0f4e-4319-b89f-9c7d888fd1a7)
+
+
+    
